@@ -77,7 +77,7 @@ I build the data and AI systems that hold up once real users show up: governed s
 
 ### Open source
 
-🚧 New projects land at [**@deceroai**](https://github.com/deceroai). Each one ships with tests, CI, docs, and a security pass before its first release.
+🚧 New projects land here as they are ready. Each one ships with tests, CI, docs, and a security pass before its first release. My business, DeCeroAI Solutions, is at [**@DeCeroAI**](https://github.com/DeCeroAI).
 
 ### Toolbox
 
